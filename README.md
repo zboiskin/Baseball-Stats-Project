@@ -1,1 +1,2 @@
 # Baseball-Stats-Project
+It has been rumored that the Colorado Rockies’ season baseball stats are inflated because they play half their season in a stadium at high elevation. High elevation causes the ball to move through the air with less resistance, therefore making the ball travel further than it normally would. I will be testing the home game stats of the 14 players that have played the most games in the 2017 season, against their away game stats for significant changes. 
